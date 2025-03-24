@@ -1,5 +1,3 @@
-### Hi there 👋
+Linux and FOSS enjoyer.
 
-Linux and all things open source enthusiast
-
-Also amatuer video game modder
+Doing gamedev now for some reason.
